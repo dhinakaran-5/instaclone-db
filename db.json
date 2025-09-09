@@ -1,0 +1,766 @@
+{
+  "posts": [
+    {
+      "id": "p1",
+      "user": {
+        "id": "u1",
+        "username": "foodie_life",
+        "avatar": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      "imageUrl": "https://ik.imagekit.io/8maos45zi/Instaclone/pizza?updatedAt=1756895152457",
+      "caption": "Cheese overload 🍕🔥",
+      "likes": 234,
+      "isLiked": false,
+      "comments": [
+        {
+          "id": "c1",
+          "user": {
+            "id": "u2",
+            "username": "travel_with_me"
+          },
+          "text": "This looks sooo good 🤤"
+        }
+      ],
+      "timestamp": "2025-08-29T10:15:00Z"
+    },
+    {
+      "id": "p2",
+      "user": {
+        "id": "u2",
+        "username": "travel_with_me",
+        "avatar": "https://randomuser.me/api/portraits/men/32.jpg"
+      },
+      "imageUrl": "https://ik.imagekit.io/8maos45zi/Instaclone/girlbeach?updatedAt=1756896869628",
+      "caption": "Lost in paradise 🌴🌊",
+      "likes": 421,
+      "isLiked": true,
+      "comments": [
+        {
+          "id": "c2",
+          "user": {
+            "id": "u1",
+            "username": "foodie_life"
+          },
+          "text": "Take me with you!! 😍"
+        }
+      ],
+      "timestamp": "2025-08-28T14:30:00Z"
+    },
+    {
+      "id": "p3",
+      "user": {
+        "id": "u3",
+        "username": "tech_guy",
+        "avatar": "https://randomuser.me/api/portraits/men/12.jpg"
+      },
+      "imageUrl": "https://ik.imagekit.io/8maos45zi/Instaclone/coding?updatedAt=1756898335109",
+      "caption": "Coding + Coffee = Happiness ☕💻",
+      "likes": 150,
+      "isLiked": false,
+      "comments": [
+        {
+          "id": "c3",
+          "user": {
+            "id": "u4",
+            "username": "art_lover"
+          },
+          "text": "That setup is goals 🔥"
+        }
+      ],
+      "timestamp": "2025-08-30T09:10:00Z"
+    },
+    {
+      "id": "p4",
+      "user": {
+        "id": "u4",
+        "username": "art_lover",
+        "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+      },
+      "imageUrl": "https://ik.imagekit.io/8maos45zi/Instaclone/paint?updatedAt=1756897492984",
+      "caption": "New canvas, new dreams 🎨✨",
+      "likes": 310,
+      "isLiked": false,
+      "comments": [
+        {
+          "id": "c4",
+          "user": {
+            "id": "u3",
+            "username": "tech_guy"
+          },
+          "text": "Amazing colors 🔥🔥"
+        }
+      ],
+      "timestamp": "2025-08-25T18:45:00Z"
+    },
+    {
+      "id": "p5",
+      "user": {
+        "id": "u5",
+        "username": "fitness_journey",
+        "avatar": "https://randomuser.me/api/portraits/men/25.jpg"
+      },
+      "imageUrl": "https://ik.imagekit.io/8maos45zi/Instaclone/workoutgym?updatedAt=1756897492904",
+      "caption": "No pain, no gain 💪",
+      "likes": 500,
+      "isLiked": true,
+      "comments": [
+        {
+          "id": "c5",
+          "user": {
+            "id": "u1",
+            "username": "foodie_life"
+          },
+          "text": "Respect!! 🔥"
+        }
+      ],
+      "timestamp": "2025-08-20T06:50:00Z"
+    },
+    {
+      "id": "p6",
+      "user": {
+        "id": "u6",
+        "username": "book_worm",
+        "avatar": "https://randomuser.me/api/portraits/women/22.jpg"
+      },
+      "imageUrl": "https://ik.imagekit.io/8maos45zi/Instaclone/books?updatedAt=1756897493008",
+      "caption": "Lost in stories 📚✨",
+      "likes": 180,
+      "isLiked": false,
+      "comments": [
+        {
+          "id": "c6",
+          "user": {
+            "id": "u4",
+            "username": "art_lover"
+          },
+          "text": "This looks so cozy!"
+        }
+      ],
+      "timestamp": "2025-08-19T12:20:00Z"
+    },
+    {
+      "id": "p7",
+      "user": {
+        "id": "u7",
+        "username": "nature_guy",
+        "avatar": "https://randomuser.me/api/portraits/men/47.jpg"
+      },
+      "imageUrl": "https://ik.imagekit.io/8maos45zi/Instaclone/natureclick?updatedAt=1756897492896",
+      "caption": "Peaceful mornings in the hills 🌄",
+      "likes": 345,
+      "isLiked": false,
+      "comments": [
+        {
+          "id": "c7",
+          "user": {
+            "id": "u2",
+            "username": "travel_with_me"
+          },
+          "text": "Wow, where is this? 🌍"
+        }
+      ],
+      "timestamp": "2025-08-18T09:05:00Z"
+    },
+    {
+      "id": "p8",
+      "user": {
+        "id": "u8",
+        "username": "pet_love",
+        "avatar": "https://randomuser.me/api/portraits/women/36.jpg"
+      },
+      "imageUrl": "https://ik.imagekit.io/8maos45zi/Instaclone/puppy?updatedAt=1756897492387",
+      "caption": "Meet my new baby 🐶❤️",
+      "likes": 600,
+      "isLiked": true,
+      "comments": [
+        {
+          "id": "c8",
+          "user": {
+            "id": "u5",
+            "username": "fitness_journey"
+          },
+          "text": "Cutest pup ever!! 😍"
+        }
+      ],
+      "timestamp": "2025-08-15T16:40:00Z"
+    },
+    {
+      "id": "p9",
+      "user": {
+        "id": "u9",
+        "username": "music_vibes",
+        "avatar": "https://randomuser.me/api/portraits/men/56.jpg"
+      },
+      "imageUrl": "https://ik.imagekit.io/8maos45zi/Instaclone/concert?updatedAt=1756897493142",
+      "caption": "Concert nights hit different 🎶✨",
+      "likes": 290,
+      "isLiked": false,
+      "comments": [
+        {
+          "id": "c9",
+          "user": {
+            "id": "u6",
+            "username": "book_worm"
+          },
+          "text": "Wish I was there!"
+        }
+      ],
+      "timestamp": "2025-08-12T22:15:00Z"
+    },
+    {
+      "id": "p10",
+      "user": {
+        "id": "u10",
+        "username": "coffee_addict",
+        "avatar": "https://randomuser.me/api/portraits/women/11.jpg"
+      },
+      "imageUrl": "https://ik.imagekit.io/8maos45zi/Instaclone/coffemorning?updatedAt=1756897492913",
+      "caption": "Morning fuel ☕✨",
+      "likes": 410,
+      "isLiked": true,
+      "comments": [
+        {
+          "id": "c10",
+          "user": {
+            "id": "u3",
+            "username": "tech_guy"
+          },
+          "text": "Need one rn!! 😭"
+        }
+      ],
+      "timestamp": "2025-08-10T07:45:00Z"
+    },
+    {
+      "id": "p11",
+      "user": {
+        "id": "u11",
+        "username": "style_icon",
+        "avatar": "https://randomuser.me/api/portraits/women/77.jpg"
+      },
+      "imageUrl": "https://ik.imagekit.io/8maos45zi/Instaclone/photoshootgirl?updatedAt=1756897493165",
+      "caption": "OOTD 💃🔥",
+      "likes": 530,
+      "isLiked": false,
+      "comments": [
+        {
+          "id": "c11",
+          "user": {
+            "id": "u9",
+            "username": "music_vibes"
+          },
+          "text": "Drip!! 🔥🔥"
+        }
+      ],
+      "timestamp": "2025-08-08T15:00:00Z"
+    },
+    {
+      "id": "p12",
+      "user": {
+        "id": "u12",
+        "username": "gamer_life",
+        "avatar": "https://randomuser.me/api/portraits/men/73.jpg"
+      },
+      "imageUrl": "https://ik.imagekit.io/8maos45zi/Instaclone/gamingboy?updatedAt=1756897492319",
+      "caption": "Late-night grind 🎮",
+      "likes": 275,
+      "isLiked": false,
+      "comments": [
+        {
+          "id": "c12",
+          "user": {
+            "id": "u10",
+            "username": "coffee_addict"
+          },
+          "text": "Same! Need coffee 😂"
+        }
+      ],
+      "timestamp": "2025-08-07T23:30:00Z"
+    },
+    {
+      "id": "p13",
+      "user": {
+        "id": "u13",
+        "username": "chef_master",
+        "avatar": "https://randomuser.me/api/portraits/men/41.jpg"
+      },
+      "imageUrl": "https://ik.imagekit.io/8maos45zi/Instaclone/cheffood?updatedAt=1756897497240",
+      "caption": "Cooking is art 🍝✨",
+      "likes": 360,
+      "isLiked": false,
+      "comments": [
+        {
+          "id": "c13",
+          "user": {
+            "id": "u8",
+            "username": "pet_love"
+          },
+          "text": "Pls cook for me 🙏"
+        }
+      ],
+      "timestamp": "2025-08-05T13:20:00Z"
+    },
+    {
+      "id": "p14",
+      "user": {
+        "id": "u14",
+        "username": "photography_soul",
+        "avatar": "https://randomuser.me/api/portraits/women/30.jpg"
+      },
+      "imageUrl": "https://ik.imagekit.io/8maos45zi/Instaclone/dslr?updatedAt=1756897497459",
+      "caption": "Captured the moment 📸✨",
+      "likes": 480,
+      "isLiked": true,
+      "comments": [
+        {
+          "id": "c14",
+          "user": {
+            "id": "u7",
+            "username": "nature_guy"
+          },
+          "text": "Perfect shot!!"
+        }
+      ],
+      "timestamp": "2025-08-03T19:00:00Z"
+    },
+    {
+      "id": "p15",
+      "user": {
+        "id": "u15",
+        "username": "car_enthusiast",
+        "avatar": "https://randomuser.me/api/portraits/men/85.jpg"
+      },
+      "imageUrl": "https://ik.imagekit.io/8maos45zi/Instaclone/lambo?updatedAt=1756897895473",
+      "caption": "Speed thrills 🏎️💨",
+      "likes": 700,
+      "isLiked": true,
+      "comments": [
+        {
+          "id": "c15",
+          "user": {
+            "id": "u11",
+            "username": "style_icon"
+          },
+          "text": "That’s a beast 😍"
+        }
+      ],
+      "timestamp": "2025-08-01T12:00:00Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "username": "foodie_life",
+      "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+      "bio": "Food is my love language 🍕❤",
+      "followers": 1200,
+      "following": 300
+    },
+    {
+      "id": "u2",
+      "username": "travel_with_me",
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+      "bio": "Exploring the world one step at a time 🌍✈",
+      "followers": 2450,
+      "following": 500
+    },
+    {
+      "id": "u3",
+      "username": "tech_guy",
+      "avatar": "https://randomuser.me/api/portraits/men/12.jpg",
+      "bio": "Code. Debug. Coffee. Repeat ☕💻",
+      "followers": 980,
+      "following": 180
+    },
+    {
+      "id": "u4",
+      "username": "art_lover",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg",
+      "bio": "Painting my soul on canvas 🎨✨",
+      "followers": 1120,
+      "following": 260
+    },
+    {
+      "id": "u5",
+      "username": "fitness_journey",
+      "avatar": "https://randomuser.me/api/portraits/men/45.jpg",
+      "bio": "No pain, no gain 💪",
+      "followers": 3200,
+      "following": 410
+    },
+    {
+      "id": "u6",
+      "username": "book_worm",
+      "avatar": "https://randomuser.me/api/portraits/women/19.jpg",
+      "bio": "Lost between pages 📚☕",
+      "followers": 800,
+      "following": 150
+    },
+    {
+      "id": "u7",
+      "username": "nature_guy",
+      "avatar": "https://randomuser.me/api/portraits/men/28.jpg",
+      "bio": "Chasing mountains and sunsets 🌄🌲",
+      "followers": 1900,
+      "following": 290
+    },
+    {
+      "id": "u8",
+      "username": "pet_love",
+      "avatar": "https://randomuser.me/api/portraits/women/56.jpg",
+      "bio": "Paws & cuddles 🐶🐾",
+      "followers": 2750,
+      "following": 350
+    },
+    {
+      "id": "u9",
+      "username": "music_vibes",
+      "avatar": "https://randomuser.me/api/portraits/men/36.jpg",
+      "bio": "Life is better with music 🎶",
+      "followers": 3100,
+      "following": 600
+    },
+    {
+      "id": "u10",
+      "username": "coffee_addict",
+      "avatar": "https://randomuser.me/api/portraits/women/50.jpg",
+      "bio": "Espresso yourself ☕❤",
+      "followers": 1200,
+      "following": 200
+    },
+    {
+      "id": "u11",
+      "username": "style_icon",
+      "avatar": "https://randomuser.me/api/portraits/women/14.jpg",
+      "bio": "Fashion is art, and I’m the canvas 👗✨",
+      "followers": 4200,
+      "following": 700
+    },
+    {
+      "id": "u12",
+      "username": "gamer_life",
+      "avatar": "https://randomuser.me/api/portraits/men/40.jpg",
+      "bio": "Respawn. Reload. Repeat 🎮🔥",
+      "followers": 2300,
+      "following": 330
+    },
+    {
+      "id": "u13",
+      "username": "chef_master",
+      "avatar": "https://randomuser.me/api/portraits/men/52.jpg",
+      "bio": "Cooking happiness one plate at a time 🍳👨‍🍳",
+      "followers": 1750,
+      "following": 280
+    },
+    {
+      "id": "u14",
+      "username": "photography_soul",
+      "avatar": "https://randomuser.me/api/portraits/women/25.jpg",
+      "bio": "Capturing moments, freezing time 📸✨",
+      "followers": 2670,
+      "following": 410
+    },
+    {
+      "id": "u15",
+      "username": "car_enthusiast",
+      "avatar": "https://randomuser.me/api/portraits/men/18.jpg",
+      "bio": "Fast cars, big dreams 🏎🔥",
+      "followers": 3500,
+      "following": 500
+    }
+  ],
+  "profile": {
+    "id": "u18",
+    "name": "Brain Era",
+    "username": "brain_era",
+    "avatar": "https://ik.imagekit.io/8maos45zi/Instaclone/2.jpg?updatedAt=1757261309391",
+    "bio": "Love creativity, coffee ☕ and travel ✈️",
+    "posts": 120,
+    "followers": 2300,
+    "following": 540
+  },
+  "stories": [
+    {
+      "id": "s1",
+      "userId": "u1",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=500",
+      "timestamp": "2025-09-04T08:00:00Z",
+      "viewed": false
+    },
+    {
+      "id": "s2",
+      "userId": "u2",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500",
+      "timestamp": "2025-09-04T09:00:00Z",
+      "viewed": true
+    },
+    {
+      "id": "s3",
+      "userId": "u3",
+      "image": "https://i.pinimg.com/736x/ab/f5/ee/abf5ee47a4d0f8048b12a39114a92b9a.jpg",
+      "timestamp": "2025-09-04T09:30:00Z",
+      "viewed": false
+    },
+    {
+      "id": "s4",
+      "userId": "u4",
+      "image": "https://i.pinimg.com/736x/95/b0/ae/95b0aebb21de87c57a5fc56dfe1a17df.jpg",
+      "timestamp": "2025-09-04T10:00:00Z",
+      "viewed": false
+    },
+    {
+      "id": "s5",
+      "userId": "u5",
+      "image": "https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf?w=500",
+      "timestamp": "2025-09-04T10:30:00Z",
+      "viewed": true
+    },
+    {
+      "id": "s6",
+      "userId": "u6",
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500",
+      "timestamp": "2025-09-04T11:00:00Z",
+      "viewed": false
+    },
+    {
+      "id": "s7",
+      "userId": "u7",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=500",
+      "timestamp": "2025-09-04T11:30:00Z",
+      "viewed": false
+    },
+    {
+      "id": "s8",
+      "userId": "u8",
+      "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=500",
+      "timestamp": "2025-09-04T12:00:00Z",
+      "viewed": true
+    },
+    {
+      "id": "s9",
+      "userId": "u9",
+      "image": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2?w=500",
+      "timestamp": "2025-09-04T12:30:00Z",
+      "viewed": false
+    },
+    {
+      "id": "s10",
+      "userId": "u10",
+      "image": "https://i.pinimg.com/736x/5b/6c/24/5b6c240271c73666a6b26987ef5e4a7a.jpg",
+      "timestamp": "2025-09-04T13:00:00Z",
+      "viewed": true
+    }
+  ],
+  "user": {
+    "avatar": "https://ik.imagekit.io/8maos45zi/Instaclone/2.jpg?updatedAt=1757261309391",
+    "username": "johndoe",
+    "name": "John Doe",
+    "bio": "Love creativity, coffee ☕ and travel ✈️",
+    "posts": 120,
+    "followers": 2300,
+    "following": 540
+  },
+  "followers": [
+    {
+      "id": "u16",
+      "username": "lisa_m",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
+      "bio": "Coffee lover ☕ | UX Designer",
+      "followers": 1840,
+      "following": 420
+    },
+    {
+      "id": "u13",
+      "username": "chef_master",
+      "avatar": "https://randomuser.me/api/portraits/men/52.jpg",
+      "bio": "Cooking happiness one plate at a time 🍳👨‍🍳",
+      "followers": 1750,
+      "following": 280
+    },
+    {
+      "id": "u14",
+      "username": "photography_soul",
+      "avatar": "https://randomuser.me/api/portraits/women/25.jpg",
+      "bio": "Capturing moments, freezing time 📸✨",
+      "followers": 2670,
+      "following": 410
+    },
+    {
+      "id": "u15",
+      "username": "car_enthusiast",
+      "avatar": "https://randomuser.me/api/portraits/men/18.jpg",
+      "bio": "Fast cars, big dreams 🏎🔥",
+      "followers": 3500,
+      "following": 500
+    },
+    {
+      "id": "u20",
+      "username": "sophia_l",
+      "avatar": "https://randomuser.me/api/portraits/women/74.jpg",
+      "bio": "Minimalist 🌿 | Interior design addict",
+      "followers": 1980,
+      "following": 600
+    },
+    {
+      "id": "u19",
+      "username": "chris_p",
+      "avatar": "https://randomuser.me/api/portraits/men/73.jpg",
+      "bio": "Gym rat 🏋 | Web Developer 💻",
+      "followers": 2765,
+      "following": 330
+    },
+    {
+      "id": "u11",
+      "username": "style_icon",
+      "avatar": "https://randomuser.me/api/portraits/women/14.jpg",
+      "bio": "Fashion is art, and I’m the canvas 👗✨",
+      "followers": 4200,
+      "following": 700
+    },
+    {
+      "id": "u10",
+      "username": "coffee_addict",
+      "avatar": "https://randomuser.me/api/portraits/women/50.jpg",
+      "bio": "Espresso yourself ☕❤",
+      "followers": 1200,
+      "following": 200
+    },
+    {
+      "id": "u9",
+      "username": "music_vibes",
+      "avatar": "https://randomuser.me/api/portraits/men/36.jpg",
+      "bio": "Life is better with music 🎶",
+      "followers": 3100,
+      "following": 600
+    },
+    {
+      "id": "u8",
+      "username": "pet_love",
+      "avatar": "https://randomuser.me/api/portraits/women/56.jpg",
+      "bio": "Paws & cuddles 🐶🐾",
+      "followers": 2750,
+      "following": 350
+    },
+    {
+      "id": "u1",
+      "username": "foodie_life",
+      "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+      "bio": "Food is my love language 🍕❤",
+      "followers": 1200,
+      "following": 300
+    },
+    {
+      "id": "u2",
+      "username": "travel_with_me",
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+      "bio": "Exploring the world one step at a time 🌍✈",
+      "followers": 2450,
+      "following": 500
+    },
+    {
+      "id": "u3",
+      "username": "tech_guy",
+      "avatar": "https://randomuser.me/api/portraits/men/12.jpg",
+      "bio": "Code. Debug. Coffee. Repeat ☕💻",
+      "followers": 980,
+      "following": 180
+    },
+    {
+      "id": "u4",
+      "username": "art_lover",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg",
+      "bio": "Painting my soul on canvas 🎨✨",
+      "followers": 1120,
+      "following": 260
+    }
+  ],
+  "suggested": [
+    {
+      "id": "u12",
+      "username": "gamer_life",
+      "avatar": "https://randomuser.me/api/portraits/men/40.jpg",
+      "bio": "Respawn. Reload. Repeat 🎮🔥",
+      "followers": 2300,
+      "following": 330
+    },
+    {
+      "id": "u7",
+      "username": "nature_guy",
+      "avatar": "https://randomuser.me/api/portraits/men/28.jpg",
+      "bio": "Chasing mountains and sunsets 🌄🌲",
+      "followers": 1900,
+      "following": 290
+    },
+    {
+      "id": "u6",
+      "username": "book_worm",
+      "avatar": "https://randomuser.me/api/portraits/women/19.jpg",
+      "bio": "Lost between pages 📚☕",
+      "followers": 800,
+      "following": 150
+    },
+    {
+      "id": "u5",
+      "username": "fitness_journey",
+      "avatar": "https://randomuser.me/api/portraits/men/45.jpg",
+      "bio": "No pain, no gain 💪",
+      "followers": 3200,
+      "following": 410
+    },
+    {
+      "id": "u17",
+      "username": "tommy_b",
+      "avatar": "https://randomuser.me/api/portraits/men/71.jpg",
+      "bio": "Always exploring new places 🌍",
+      "followers": 2230,
+      "following": 510
+    },
+    {
+      "id": "u18",
+      "username": "natalie_rose",
+      "avatar": "https://randomuser.me/api/portraits/women/72.jpg",
+      "bio": "Bookworm 📚 | Music vibes 🎶",
+      "followers": 3120,
+      "following": 280
+    },
+    {
+      "id": "u21",
+      "username": "mike_j",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
+      "bio": "Football ⚽ | Street photography 📷",
+      "followers": 2890,
+      "following": 440
+    },
+    {
+      "id": "u22",
+      "username": "emma_w",
+      "avatar": "https://randomuser.me/api/portraits/women/76.jpg",
+      "bio": "Foodie 🍣 | Traveler ✈",
+      "followers": 3400,
+      "following": 370
+    },
+    {
+      "id": "u23",
+      "username": "alex_r",
+      "avatar": "https://randomuser.me/api/portraits/men/77.jpg",
+      "bio": "Loves coding 💻 | Open source ❤",
+      "followers": 2650,
+      "following": 310
+    },
+    {
+      "id": "u24",
+      "username": "bella_c",
+      "avatar": "https://randomuser.me/api/portraits/women/78.jpg",
+      "bio": "Cat mom 🐱 | Artist 🎨",
+      "followers": 1920,
+      "following": 510
+    },
+    {
+      "id": "u25",
+      "username": "david_k",
+      "avatar": "https://randomuser.me/api/portraits/men/79.jpg",
+      "bio": "Basketball 🏀 | Nature lover 🌲",
+      "followers": 3010,
+      "following": 295
+    }
+  ]
+}
